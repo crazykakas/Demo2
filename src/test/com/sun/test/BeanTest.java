@@ -10,6 +10,7 @@ import java.applet.AppletContext;
 
 public class BeanTest {
 
+    //测试大S大S大大S大S大d
     @Test
     public void  PersonTest(){
         ApplicationContext ctx = new ClassPathXmlApplicationContext("applicationContext.xml");
